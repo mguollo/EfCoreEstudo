@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "c:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\Dominio.csproj",
+      "projectPath": "c:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\obj\\",
+      "outputPath": "c:\\Projetos\\udemy_aspcore\\EfCore\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
