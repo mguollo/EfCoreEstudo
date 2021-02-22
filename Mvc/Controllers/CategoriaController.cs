@@ -26,7 +26,7 @@ namespace Mvc.Controllers
         public IActionResult Index()        
         {
             var queryDeCategorias = _contexto.Categorias
-            .Where(p => p.Id.Equals(1))
+            //.Where(p => p.Id.Equals(1))
             .OrderBy(p => p.Nome);
 
             //se nao tem nenhum
