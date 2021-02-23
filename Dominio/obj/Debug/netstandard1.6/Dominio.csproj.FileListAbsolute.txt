@@ -1,0 +1,9 @@
+C:\Projetos\udemy_aspcore\EfCore\Dominio\bin\Debug\netstandard1.6\Dominio.deps.json
+C:\Projetos\udemy_aspcore\EfCore\Dominio\bin\Debug\netstandard1.6\Dominio.dll
+C:\Projetos\udemy_aspcore\EfCore\Dominio\bin\Debug\netstandard1.6\Dominio.pdb
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.csprojAssemblyReference.cache
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.AssemblyInfoInputs.cache
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.AssemblyInfo.cs
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.dll
+C:\Projetos\udemy_aspcore\EfCore\Dominio\obj\Debug\netstandard1.6\Dominio.pdb

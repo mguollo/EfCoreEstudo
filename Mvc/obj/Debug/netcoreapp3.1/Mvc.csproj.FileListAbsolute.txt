@@ -1,6 +1,5 @@
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Mvc.exe
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Mvc.deps.json
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Mvc.runtimeconfig.json
@@ -60,3 +59,4 @@ C:\Projetos\udemy_aspcore\EfCore\Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Produto
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Projetos\udemy_aspcore\EfCore\Mvc\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Projetos\udemy_aspcore\EfCore\Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mvc.styles.css

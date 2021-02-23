@@ -977,6 +977,9 @@
         }
       },
       "Dominio/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
         "runtime": {
           "Dominio.dll": {}
         }
