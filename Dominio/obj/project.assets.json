@@ -31,7 +31,7 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "NETStandard.Library/1.6.1": {
+      "NETStandard.Library/1.6.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -1266,16 +1266,16 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "NETStandard.Library/1.6.1": {
+    "NETStandard.Library/1.6.0": {
       "sha512": "WcSp3+vP+yHNgS8EV5J7pZ9IRpeDuARBPN28by8zqff1wJQXm26PVU8L3/fYLBJVU7BtDyqNVWq2KlCVvSSR4A==",
       "type": "package",
-      "path": "netstandard.library/1.6.1",
+      "path": "netstandard.library/1.6.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
-        "netstandard.library.1.6.1.nupkg.sha512",
+        "netstandard.library.1.6.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -4470,7 +4470,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v1.6": [
-      "NETStandard.Library >= 1.6.1"
+      "NETStandard.Library >= 1.6.0"
     ]
   },
   "packageFolders": {
@@ -4514,7 +4514,7 @@
         "dependencies": {
           "NETStandard.Library": {
             "target": "Package",
-            "version": "[1.6.1, )",
+            "version": "[1.6.0, )",
             "autoReferenced": true
           }
         },
